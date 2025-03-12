@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|c:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|c:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\palabra.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|solutionrelative:palabra.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|c:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\palabra.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|solutionrelative:palabra.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|c:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2DB4A1C-8352-4A0C-ACF0-0A60257A09BB}|ahorcado.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "palabra.xaml.cs",
+              "DocumentMoniker": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\palabra.xaml.cs",
+              "RelativeDocumentMoniker": "palabra.xaml.cs",
+              "ToolTip": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\palabra.xaml.cs",
+              "RelativeToolTip": "palabra.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:22:00.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "palabra.xaml",
+              "DocumentMoniker": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\palabra.xaml",
+              "RelativeDocumentMoniker": "palabra.xaml",
+              "ToolTip": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\palabra.xaml",
+              "RelativeToolTip": "palabra.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T15:21:58.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T20:47:42.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwv2UAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:19:05.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
