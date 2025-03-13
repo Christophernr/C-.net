@@ -1,0 +1,11 @@
+clikeo y el recibe el numero
+
+clickeo el signo y lo recibe
+
+cuando lo recibe el numero primero se va arriba junto con el valor del signo
+
+clickeo otro numero y ese se queda en el cuadro de abajo
+
+clickeo igual y se transforma al resultado y la formula arriba 
+
+
