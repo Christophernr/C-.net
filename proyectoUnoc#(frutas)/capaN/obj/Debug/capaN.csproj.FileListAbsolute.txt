@@ -1,0 +1,13 @@
+C:\practica c#\proyectoUnoc#(frutas)\capaN\bin\Debug\capaN.dll.config
+C:\practica c#\proyectoUnoc#(frutas)\capaN\bin\Debug\capaN.dll
+C:\practica c#\proyectoUnoc#(frutas)\capaN\bin\Debug\capaN.pdb
+C:\practica c#\proyectoUnoc#(frutas)\capaN\bin\Debug\capaD.dll
+C:\practica c#\proyectoUnoc#(frutas)\capaN\bin\Debug\capaD.pdb
+C:\practica c#\proyectoUnoc#(frutas)\capaN\bin\Debug\capaD.dll.config
+C:\practica c#\proyectoUnoc#(frutas)\capaN\obj\Debug\capaN.csproj.AssemblyReference.cache
+C:\practica c#\proyectoUnoc#(frutas)\capaN\obj\Debug\capaN.Properties.Resources.resources
+C:\practica c#\proyectoUnoc#(frutas)\capaN\obj\Debug\capaN.csproj.GenerateResource.cache
+C:\practica c#\proyectoUnoc#(frutas)\capaN\obj\Debug\capaN.csproj.CoreCompileInputs.cache
+C:\practica c#\proyectoUnoc#(frutas)\capaN\obj\Debug\capaN.csproj.Up2Date
+C:\practica c#\proyectoUnoc#(frutas)\capaN\obj\Debug\capaN.dll
+C:\practica c#\proyectoUnoc#(frutas)\capaN\obj\Debug\capaN.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="piedra_papel_tijera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:piedra_papel_tijera"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Rectangle x:Name="rt_set" HorizontalAlignment="Left" Height="70" Margin="0,354,0,0" Stroke="Black" VerticalAlignment="Top" Width="790"/>
+        <Button x:Name="btn_piedra" Tag="2" Content="Piedra" HorizontalAlignment="Left" Margin="77,371,0,0" VerticalAlignment="Top" Height="41" Width="111" BorderBrush="White" Background="#FFE9D1D1" Click="eleccion"/>
+        <Button x:Name="btn_papel" Tag="1" Content="Papel" HorizontalAlignment="Center" Margin="0,371,0,0" VerticalAlignment="Top" Height="41" Width="112" BorderBrush="White" Background="#FFE9D1D1" Click="eleccion"/>
+        <Button x:Name="btn_Tijera" Tag="3" Content="Tijera" HorizontalAlignment="Left" Margin="620,371,0,0" VerticalAlignment="Top" Height="41" Width="111" BorderBrush="White" Background="#FFE9D1D1" Click="eleccion"/>
+        <Button x:Name="btn_try_again" Content="De nuevo" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Height="37" Width="88" Background="#FFE9F2FF" BorderBrush="White"/>
+        <Label x:Name="lbl_puntajePLayer1" Content="0" HorizontalAlignment="Left" Margin="40,313,0,0" VerticalAlignment="Top" Height="36" Width="58" FontSize="20" FontWeight="Bold"/>
+        <Label x:Name="lbl_puntajePLayer2" Content="0" HorizontalAlignment="Left" Margin="721,21,0,0" VerticalAlignment="Top" Height="36" Width="58" FontSize="20" FontWeight="Bold"/>
+        <Rectangle HorizontalAlignment="Center" Height="244" Margin="0,87,0,0" Stroke="Black" VerticalAlignment="Top" Width="458"/>
+        <Label Content="Tu Eleccion" HorizontalAlignment="Left" Margin="238,137,0,0" VerticalAlignment="Top" Width="87"/>
+        <Label Content="Maquina" HorizontalAlignment="Left" Margin="479,137,0,0" VerticalAlignment="Top" Width="72"/>
+        <Label x:Name="lbl_eleccion" Content="?" HorizontalAlignment="Left" Margin="255,198,0,0" VerticalAlignment="Top" Height="58" Width="99" FontWeight="Bold" FontSize="24"/>
+        <Label x:Name="lbl_eleccion_maquina" Content="?" HorizontalAlignment="Left" Margin="495,198,0,0" VerticalAlignment="Top" Height="58" Width="99" FontWeight="Bold" FontSize="24"/>
+    </Grid>
+</Window>

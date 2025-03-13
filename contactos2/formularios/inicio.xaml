@@ -1,0 +1,20 @@
+﻿<Window x:Class="formularios.inicio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:formularios"
+        mc:Ignorable="d"
+        Title="inicio" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="529*"/>
+            <ColumnDefinition Width="271*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Lista Contactos" HorizontalAlignment="Left" Margin="84,10,0,0" VerticalAlignment="Top"/>
+        <DataGrid x:Name="gridTabla" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="84,78,202,10" SelectionChanged="DataGrid_SelectionChanged"  MouseDoubleClick="abrirInfoDlbclick" Grid.ColumnSpan="4"/>
+        <Button Content="Añadir" HorizontalAlignment="Left" Margin="460,16,0,0" VerticalAlignment="Top" Height="34" Width="52" Click="btn_guardar"/>
+        <Label Content="(DOBLE CLICK AL CONTACTO PARA INGRESAR ENTRAR)" HorizontalAlignment="Left" Margin="227,52,0,0" VerticalAlignment="Top" Opacity="0.5" FontSize="11"/>
+
+    </Grid>
+</Window>

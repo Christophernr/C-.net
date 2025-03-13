@@ -1,0 +1,17 @@
+C:\practica c#\contactos2\capaConexion\bin\Debug\net8.0-windows\capaConexion.deps.json
+C:\practica c#\contactos2\capaConexion\bin\Debug\net8.0-windows\capaConexion.runtimeconfig.json
+C:\practica c#\contactos2\capaConexion\bin\Debug\net8.0-windows\capaConexion.dll
+C:\practica c#\contactos2\capaConexion\bin\Debug\net8.0-windows\capaConexion.pdb
+C:\practica c#\contactos2\capaConexion\bin\Debug\net8.0-windows\entidades.dll
+C:\practica c#\contactos2\capaConexion\bin\Debug\net8.0-windows\entidades.pdb
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.csproj.AssemblyReference.cache
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.AssemblyInfoInputs.cache
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.AssemblyInfo.cs
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.csproj.CoreCompileInputs.cache
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaCone.C8995319.Up2Date
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.dll
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\refint\capaConexion.dll
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.pdb
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\capaConexion.genruntimeconfig.cache
+C:\practica c#\contactos2\capaConexion\obj\Debug\net8.0-windows\ref\capaConexion.dll

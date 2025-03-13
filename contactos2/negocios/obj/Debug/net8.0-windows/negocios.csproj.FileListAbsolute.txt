@@ -1,0 +1,17 @@
+C:\practica c#\contactos2\negocios\bin\Debug\net8.0-windows\negocios.deps.json
+C:\practica c#\contactos2\negocios\bin\Debug\net8.0-windows\negocios.dll
+C:\practica c#\contactos2\negocios\bin\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\contactos2\negocios\bin\Debug\net8.0-windows\capaConexion.dll
+C:\practica c#\contactos2\negocios\bin\Debug\net8.0-windows\entidades.dll
+C:\practica c#\contactos2\negocios\bin\Debug\net8.0-windows\capaConexion.pdb
+C:\practica c#\contactos2\negocios\bin\Debug\net8.0-windows\entidades.pdb
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.csproj.AssemblyReference.cache
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.AssemblyInfoInputs.cache
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.AssemblyInfo.cs
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.csproj.CoreCompileInputs.cache
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.csproj.Up2Date
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.dll
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\refint\negocios.dll
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\negocios.pdb
+C:\practica c#\contactos2\negocios\obj\Debug\net8.0-windows\ref\negocios.dll

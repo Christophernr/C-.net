@@ -1,0 +1,15 @@
+C:\practica c#\piedra papel juego\piedra papel tijera\bin\Debug\piedra papel tijera.exe.config
+C:\practica c#\piedra papel juego\piedra papel tijera\bin\Debug\piedra papel tijera.exe
+C:\practica c#\piedra papel juego\piedra papel tijera\bin\Debug\piedra papel tijera.pdb
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera.csproj.AssemblyReference.cache
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\MainWindow.g.cs
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\App.g.cs
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera_MarkupCompile.cache
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera_MarkupCompile.lref
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\MainWindow.baml
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera.g.resources
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra_papel_tijera.Properties.Resources.resources
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera.csproj.GenerateResource.cache
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera.csproj.CoreCompileInputs.cache
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera.exe
+C:\practica c#\piedra papel juego\piedra papel tijera\obj\Debug\piedra papel tijera.pdb

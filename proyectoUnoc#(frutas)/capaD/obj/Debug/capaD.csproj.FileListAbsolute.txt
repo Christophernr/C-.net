@@ -1,0 +1,9 @@
+C:\practica c#\proyectoUnoc#(frutas)\capaD\bin\Debug\capaD.dll.config
+C:\practica c#\proyectoUnoc#(frutas)\capaD\bin\Debug\capaD.dll
+C:\practica c#\proyectoUnoc#(frutas)\capaD\bin\Debug\capaD.pdb
+C:\practica c#\proyectoUnoc#(frutas)\capaD\obj\Debug\capaD.csproj.AssemblyReference.cache
+C:\practica c#\proyectoUnoc#(frutas)\capaD\obj\Debug\capaD.Properties.Resources.resources
+C:\practica c#\proyectoUnoc#(frutas)\capaD\obj\Debug\capaD.csproj.GenerateResource.cache
+C:\practica c#\proyectoUnoc#(frutas)\capaD\obj\Debug\capaD.csproj.CoreCompileInputs.cache
+C:\practica c#\proyectoUnoc#(frutas)\capaD\obj\Debug\capaD.dll
+C:\practica c#\proyectoUnoc#(frutas)\capaD\obj\Debug\capaD.pdb

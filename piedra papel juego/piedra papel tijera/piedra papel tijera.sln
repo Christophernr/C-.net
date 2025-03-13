@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piedra papel tijera", "piedra papel tijera.csproj", "{8229AA84-307A-418E-9109-9B9587106079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8229AA84-307A-418E-9109-9B9587106079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8229AA84-307A-418E-9109-9B9587106079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8229AA84-307A-418E-9109-9B9587106079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8229AA84-307A-418E-9109-9B9587106079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB3D1FA-D18F-49C4-B9A8-6617FD11176D}
+	EndGlobalSection
+EndGlobal

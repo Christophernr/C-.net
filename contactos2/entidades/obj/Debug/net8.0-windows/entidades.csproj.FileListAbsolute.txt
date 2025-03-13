@@ -1,0 +1,11 @@
+C:\practica c#\contactos2\entidades\bin\Debug\net8.0-windows\entidades.deps.json
+C:\practica c#\contactos2\entidades\bin\Debug\net8.0-windows\entidades.dll
+C:\practica c#\contactos2\entidades\bin\Debug\net8.0-windows\entidades.pdb
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\entidades.AssemblyInfoInputs.cache
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\entidades.AssemblyInfo.cs
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\entidades.csproj.CoreCompileInputs.cache
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\entidades.dll
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\refint\entidades.dll
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\entidades.pdb
+C:\practica c#\contactos2\entidades\obj\Debug\net8.0-windows\ref\entidades.dll

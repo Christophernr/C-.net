@@ -1,0 +1,24 @@
+﻿<Window x:Class="formularios.informacionContacto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:formularios"
+        mc:Ignorable="d"
+        Title="informacionContacto" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_volver" Content="Volver" HorizontalAlignment="Left" Margin="654,23,0,0" VerticalAlignment="Top" Height="33" Width="79" Click="btn_volver_Click"/>
+
+
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="107,106,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Numero" HorizontalAlignment="Left" Margin="107,169,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Correo" HorizontalAlignment="Left" Margin="107,231,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label x:Name="lbl_nombre_importado" Content="Label" HorizontalAlignment="Left" Margin="191,106,0,0" VerticalAlignment="Top" Width="105" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="lbl_numero_importado" Content="Label" HorizontalAlignment="Left" Margin="191,169,0,0" VerticalAlignment="Top" Width="105" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="lbl_correo_importado" Content="Label" HorizontalAlignment="Left" Margin="191,231,0,0" VerticalAlignment="Top" Width="105" RenderTransformOrigin="0.5,0.5"/>
+        <Button x:Name="btn_eliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="654,86,0,0" VerticalAlignment="Top" Height="33" Width="79" Click="btn_eliminar_Click"/>
+        <Label x:Name="lbl_id_importando" Content="Label" HorizontalAlignment="Left" Margin="191,56,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_modificar" Content="Modificar" HorizontalAlignment="Left" Margin="654,148,0,0" VerticalAlignment="Top" Height="33" Width="79" Click="btn_modificar_Click"/>
+
+    </Grid>
+</Window>

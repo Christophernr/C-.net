@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practica c#\\proyectoUnoc#(frutas)\\frutasColores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453B903C-5325-4D7C-A8CD-8354D5ACAFD4}|..\\capaP\\capaP.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capap\\frm_frutas_verdes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28420F8B-ED50-4DE4-86A3-0E682DB6D76A}|..\\capaN\\capaN.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capan\\frutasrojas\\servicios_frutas_rojas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28420F8B-ED50-4DE4-86A3-0E682DB6D76A}|..\\capaN\\capaN.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capan\\frutasrojas\\clase_frutas_rojas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E48BBB7-6AA1-4354-9B01-251A6F93D9F9}|..\\capaD\\capaD.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B903C-5325-4D7C-A8CD-8354D5ACAFD4}|..\\capaP\\capaP.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capap\\frm_frutas_verdes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C164E780-1A74-4489-9CD0-A682742E1745}|frutasColores.csproj|C:\\practica c#\\proyectoUnoc#(frutas)\\frutasColores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C164E780-1A74-4489-9CD0-A682742E1745}|frutasColores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B903C-5325-4D7C-A8CD-8354D5ACAFD4}|..\\capaP\\capaP.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capap\\elegir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B903C-5325-4D7C-A8CD-8354D5ACAFD4}|..\\capaP\\capaP.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capap\\frm_frutas_rojas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28420F8B-ED50-4DE4-86A3-0E682DB6D76A}|..\\capaN\\capaN.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capan\\frutasverdes\\clase_frutas_verdes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28420F8B-ED50-4DE4-86A3-0E682DB6D76A}|..\\capaN\\capaN.csproj|c:\\practica c#\\proyectounoc#(frutas)\\capan\\frutasverdes\\servicio_frutas_verdes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 198,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FRM_Frutas_Verdes.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\FRM_Frutas_Verdes.cs",
+              "RelativeDocumentMoniker": "..\\capaP\\FRM_Frutas_Verdes.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\FRM_Frutas_Verdes.cs",
+              "RelativeToolTip": "..\\capaP\\FRM_Frutas_Verdes.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:22:02.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "servicio_frutas_verdes.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasverdes\\servicio_frutas_verdes.cs",
+              "RelativeDocumentMoniker": "..\\capaN\\frutasverdes\\servicio_frutas_verdes.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasverdes\\servicio_frutas_verdes.cs",
+              "RelativeToolTip": "..\\capaN\\frutasverdes\\servicio_frutas_verdes.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:09:47.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clase_frutas_verdes.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasverdes\\clase_frutas_verdes.cs",
+              "RelativeDocumentMoniker": "..\\capaN\\frutasverdes\\clase_frutas_verdes.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasverdes\\clase_frutas_verdes.cs",
+              "RelativeToolTip": "..\\capaN\\frutasverdes\\clase_frutas_verdes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwBAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:09:31.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaD\\Program.cs",
+              "RelativeDocumentMoniker": "..\\capaD\\Program.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaD\\Program.cs",
+              "RelativeToolTip": "..\\capaD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:55:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "servicios_frutas_rojas.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasrojas\\servicios_frutas_rojas.cs",
+              "RelativeDocumentMoniker": "..\\capaN\\frutasrojas\\servicios_frutas_rojas.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasrojas\\servicios_frutas_rojas.cs",
+              "RelativeToolTip": "..\\capaN\\frutasrojas\\servicios_frutas_rojas.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:46:14.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clase_frutas_rojas.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasrojas\\clase_frutas_rojas.cs",
+              "RelativeDocumentMoniker": "..\\capaN\\frutasrojas\\clase_frutas_rojas.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaN\\frutasrojas\\clase_frutas_rojas.cs",
+              "RelativeToolTip": "..\\capaN\\frutasrojas\\clase_frutas_rojas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:43:53.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FRM_Frutas_Verdes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\FRM_Frutas_Verdes.cs",
+              "RelativeDocumentMoniker": "..\\capaP\\FRM_Frutas_Verdes.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\FRM_Frutas_Verdes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\capaP\\FRM_Frutas_Verdes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:20:42.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Elegir.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\Elegir.cs",
+              "RelativeDocumentMoniker": "..\\capaP\\Elegir.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\Elegir.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\capaP\\Elegir.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:34:34.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\frutasColores\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\frutasColores\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:03:04.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FRM_Frutas_Rojas.cs",
+              "DocumentMoniker": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\FRM_Frutas_Rojas.cs",
+              "RelativeDocumentMoniker": "..\\capaP\\FRM_Frutas_Rojas.cs",
+              "ToolTip": "C:\\practica c#\\proyectoUnoc#(frutas)\\capaP\\FRM_Frutas_Rojas.cs",
+              "RelativeToolTip": "..\\capaP\\FRM_Frutas_Rojas.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:11:51.86Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
