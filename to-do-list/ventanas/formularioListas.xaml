@@ -1,0 +1,52 @@
+﻿<Window x:Class="ventanas.formularioListas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ventanas"
+        mc:Ignorable="d"
+        Title="formularioListas" Height="450" Width="800">
+    <Grid Margin="0,0,0,-6">
+        <Label Content="Buscar" HorizontalAlignment="Left" Margin="46,23,0,0" VerticalAlignment="Top"/>
+        <Label Content="Buscar por: " HorizontalAlignment="Left" Margin="66,52,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="combo_general" HorizontalAlignment="Left" Margin="143,54,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="ID"/>
+            <ComboBoxItem Content="Tarea"/>
+            <ComboBoxItem Content="Prioridad"/>
+            <ComboBoxItem Content="Fecha"/>
+        </ComboBox>
+
+        
+        <TextBox x:Name="txt_busqueda_general" HorizontalAlignment="Center" Margin="0,56,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="238" Height="22" TextChanged="txt_busqueda_general_TextChanged"/>
+        <Label Content="Tareas" HorizontalAlignment="Left" Margin="48,95,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ordenar por: " HorizontalAlignment="Left" Margin="57,121,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="ordenar_tabla" HorizontalAlignment="Left" Margin="143,123,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="ID"/>
+            <ComboBoxItem Content="Tarea"/>
+            <ComboBoxItem Content="Prioridad"/>
+            <ComboBoxItem Content="Fecha"/>
+        </ComboBox>
+                  
+        <CheckBox x:Name="check" Content="Descendente" HorizontalAlignment="Left" Margin="292,126,0,0" VerticalAlignment="Top" Checked="check_Checked" Unchecked="check_Checked"/>
+        <Label Content="Añadir Tarea: " HorizontalAlignment="Left" Margin="48,308,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="combo_prio" HorizontalAlignment="Left" Margin="83,339,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Prioridad 1" Tag="1"/>
+            <ComboBoxItem Content="Prioridad 2" Tag="2"/>
+            <ComboBoxItem Content="Prioridad 3" Tag="3"/>
+        </ComboBox>
+        <TextBox x:Name="txt_añadir_tarea" HorizontalAlignment="Left" Margin="83,377,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="481" Height="27"/>
+        <Button x:Name="btn_añadir" Content="Añadir" HorizontalAlignment="Left" Margin="595,369,0,0" VerticalAlignment="Top" Width="95" Height="34" Click="btn_añadir_Click"/>
+        <ListView x:Name="tabla_tareas" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="83,152,110,132" SelectionChanged="tabla_tareas_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding id}" Width="50"/>
+                    <GridViewColumn Header="Task" DisplayMemberBinding="{Binding tarea}" Width="300"/>
+                    <GridViewColumn Header="Prioridad" DisplayMemberBinding="{Binding prioridad}" Width="80"/>
+                    <GridViewColumn Header="Fecha" DisplayMemberBinding="{Binding fecha}" Width="155"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

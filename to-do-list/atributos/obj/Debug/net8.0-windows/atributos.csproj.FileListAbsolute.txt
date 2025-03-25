@@ -1,0 +1,12 @@
+C:\practica c#\to-do-list\atributos\bin\Debug\net8.0-windows\atributos.deps.json
+C:\practica c#\to-do-list\atributos\bin\Debug\net8.0-windows\atributos.dll
+C:\practica c#\to-do-list\atributos\bin\Debug\net8.0-windows\atributos.pdb
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\atributos.AssemblyInfoInputs.cache
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\atributos.AssemblyInfo.cs
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\atributos.csproj.CoreCompileInputs.cache
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\atributos.sourcelink.json
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\atributos.dll
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\refint\atributos.dll
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\atributos.pdb
+C:\practica c#\to-do-list\atributos\obj\Debug\net8.0-windows\ref\atributos.dll
