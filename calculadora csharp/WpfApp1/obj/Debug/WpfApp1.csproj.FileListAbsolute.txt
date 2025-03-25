@@ -1,0 +1,15 @@
+C:\practica c#\calculadora c#\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\practica c#\calculadora c#\WpfApp1\bin\Debug\WpfApp1.exe
+C:\practica c#\calculadora c#\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\App.g.cs
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\MainWindow.baml
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1.exe
+C:\practica c#\calculadora c#\WpfApp1\obj\Debug\WpfApp1.pdb
