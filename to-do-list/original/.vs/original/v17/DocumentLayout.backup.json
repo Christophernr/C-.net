@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\practica c#\\to-do-list\\original\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{943FEC22-45CE-41B3-8720-F2FB03A09DAB}|..\\ventanas\\ventanas.csproj|c:\\practica c#\\to-do-list\\ventanas\\formulariolistas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1765BD92-426C-4787-A27B-5436F63A9E70}|..\\servicios\\servicios.csproj|c:\\practica c#\\to-do-list\\servicios\\servicios\\negocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{943FEC22-45CE-41B3-8720-F2FB03A09DAB}|..\\ventanas\\ventanas.csproj|c:\\practica c#\\to-do-list\\ventanas\\formulariolistas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1765BD92-426C-4787-A27B-5436F63A9E70}|..\\servicios\\servicios.csproj|c:\\practica c#\\to-do-list\\servicios\\servicios\\negocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{943FEC22-45CE-41B3-8720-F2FB03A09DAB}|..\\ventanas\\ventanas.csproj|c:\\practica c#\\to-do-list\\ventanas\\formulariolistas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6382EFD-FF89-4B19-A876-0E5689640CFE}|..\\atributos\\atributos.csproj|c:\\practica c#\\to-do-list\\atributos\\tabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 717,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +38,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "negocios.cs",
+              "DocumentMoniker": "C:\\practica c#\\to-do-list\\servicios\\servicios\\negocios.cs",
+              "RelativeDocumentMoniker": "..\\servicios\\servicios\\negocios.cs",
+              "ToolTip": "C:\\practica c#\\to-do-list\\servicios\\servicios\\negocios.cs",
+              "RelativeToolTip": "..\\servicios\\servicios\\negocios.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA5wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:08:40.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "formularioListas.xaml",
               "DocumentMoniker": "C:\\practica c#\\to-do-list\\ventanas\\formularioListas.xaml",
@@ -50,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "formularioListas.xaml.cs",
               "DocumentMoniker": "C:\\practica c#\\to-do-list\\ventanas\\formularioListas.xaml.cs",
               "RelativeDocumentMoniker": "..\\ventanas\\formularioListas.xaml.cs",
-              "ToolTip": "C:\\practica c#\\to-do-list\\ventanas\\formularioListas.xaml.cs*",
-              "RelativeToolTip": "..\\ventanas\\formularioListas.xaml.cs*",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\practica c#\\to-do-list\\ventanas\\formularioListas.xaml.cs",
+              "RelativeToolTip": "..\\ventanas\\formularioListas.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T15:30:09.511Z",
               "EditorCaption": ""
@@ -69,21 +82,9 @@
               "RelativeDocumentMoniker": "..\\atributos\\tabla.cs",
               "ToolTip": "C:\\practica c#\\to-do-list\\atributos\\tabla.cs",
               "RelativeToolTip": "..\\atributos\\tabla.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:42:28.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "negocios.cs",
-              "DocumentMoniker": "C:\\practica c#\\to-do-list\\servicios\\servicios\\negocios.cs",
-              "RelativeDocumentMoniker": "..\\servicios\\servicios\\negocios.cs",
-              "ToolTip": "C:\\practica c#\\to-do-list\\servicios\\servicios\\negocios.cs",
-              "RelativeToolTip": "..\\servicios\\servicios\\negocios.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA3wBkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:08:40.011Z",
+              "WhenOpened": "2025-03-24T15:42:28.783Z",
               "EditorCaption": ""
             }
           ]

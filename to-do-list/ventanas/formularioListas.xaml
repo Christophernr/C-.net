@@ -42,11 +42,12 @@
                     <GridViewColumn Header="ID" DisplayMemberBinding="{Binding id}" Width="50"/>
                     <GridViewColumn Header="Task" DisplayMemberBinding="{Binding tarea}" Width="300"/>
                     <GridViewColumn Header="Prioridad" DisplayMemberBinding="{Binding prioridad}" Width="80"/>
-                    <GridViewColumn Header="Fecha" DisplayMemberBinding="{Binding fecha}" Width="155"/>
+                    <GridViewColumn Header="Fecha" DisplayMemberBinding="{Binding fecha,StringFormat=\{0:dd/MM/yyyy\}}" Width="155"/>
 
                 </GridView>
             </ListView.View>
         </ListView>
+        <Label Content="Formato de fecha: dia-mes-año" HorizontalAlignment="Left" Margin="542,54,0,0" VerticalAlignment="Top" Width="179" Opacity="0.4"/>
 
     </Grid>
 </Window>
