@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "..\\servicios\\servicios\\negocios.cs",
               "ToolTip": "C:\\practica c#\\to-do-list\\servicios\\servicios\\negocios.cs",
               "RelativeToolTip": "..\\servicios\\servicios\\negocios.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA5wCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T15:08:40.011Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\practica c#\\to-do-list\\ventanas\\formularioListas.xaml",
               "RelativeToolTip": "..\\ventanas\\formularioListas.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-24T15:48:14.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T15:48:14.069Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "..\\ventanas\\formularioListas.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:30:09.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T15:30:09.511Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "..\\atributos\\tabla.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:42:28.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T15:42:28.783Z"
             }
           ]
         }
