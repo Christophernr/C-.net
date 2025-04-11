@@ -1,0 +1,15 @@
+C:\practica c#\generadorContraseñas\contraseñas\bin\Debug\net8.0\contraseñas.exe
+C:\practica c#\generadorContraseñas\contraseñas\bin\Debug\net8.0\contraseñas.deps.json
+C:\practica c#\generadorContraseñas\contraseñas\bin\Debug\net8.0\contraseñas.runtimeconfig.json
+C:\practica c#\generadorContraseñas\contraseñas\bin\Debug\net8.0\contraseñas.dll
+C:\practica c#\generadorContraseñas\contraseñas\bin\Debug\net8.0\contraseñas.pdb
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.AssemblyInfoInputs.cache
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.AssemblyInfo.cs
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.csproj.CoreCompileInputs.cache
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.sourcelink.json
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.dll
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\refint\contraseñas.dll
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.pdb
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\contraseñas.genruntimeconfig.cache
+C:\practica c#\generadorContraseñas\contraseñas\obj\Debug\net8.0\ref\contraseñas.dll
