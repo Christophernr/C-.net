@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiprimerApi(sin apiController).props" />
+</Project>

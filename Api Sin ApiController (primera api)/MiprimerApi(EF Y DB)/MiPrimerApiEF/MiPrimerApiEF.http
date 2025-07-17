@@ -1,0 +1,6 @@
+@MiPrimerApiEF_HostAddress = http://localhost:5047
+
+GET {{MiPrimerApiEF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

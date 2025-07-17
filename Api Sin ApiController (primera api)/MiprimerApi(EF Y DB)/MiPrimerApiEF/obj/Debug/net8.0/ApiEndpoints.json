@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller",
+    "Method": "Get",
+    "RelativePath": "api/servicio_producto_",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller",
+    "Method": "Post",
+    "RelativePath": "api/servicio_producto_",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crear",
+        "Type": "MiPrimerApiEF.Models.tabla_productoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,7 @@
+@MiprimerApi_sin_apiController__HostAddress = http://localhost:5026
+
+# GET {{MiprimerApi_sin_apiController__HostAddress}}/weatherforecast/
+GET {{MiprimerApi_sin_apiController__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

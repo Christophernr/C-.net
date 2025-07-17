@@ -1,0 +1,38 @@
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\appsettings.Development.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\appsettings.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\MiprimerApi(sin apiController).staticwebassets.endpoints.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\MiprimerApi(sin apiController).exe
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\MiprimerApi(sin apiController).deps.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\MiprimerApi(sin apiController).runtimeconfig.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\MiprimerApi(sin apiController).dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\MiprimerApi(sin apiController).pdb
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).csproj.AssemblyReference.cache
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).AssemblyInfoInputs.cache
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).AssemblyInfo.cs
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).csproj.CoreCompileInputs.cache
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).MvcApplicationPartsAssemblyInfo.cs
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).MvcApplicationPartsAssemblyInfo.cache
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).sourcelink.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\scopedcss\bundle\MiprimerApi(sin apiController).styles.css
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets.build.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets.development.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets\msbuild.MiprimerApi(sin apiController).Microsoft.AspNetCore.StaticWebAssets.props
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets\msbuild.MiprimerApi(sin apiController).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets\msbuild.build.MiprimerApi(sin apiController).props
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiprimerApi(sin apiController).props
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiprimerApi(sin apiController).props
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\Miprimer.9054E63C.Up2Date
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\refint\MiprimerApi(sin apiController).dll
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).pdb
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\MiprimerApi(sin apiController).genruntimeconfig.cache
+C:\practica c#\Api Sin ApiController (primera api)\MiprimerApi(sin apiController)\obj\Debug\net8.0\ref\MiprimerApi(sin apiController).dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MiprimerApi(sin apiController).props" />
+</Project>
