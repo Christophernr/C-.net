@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations.Schema;
 using Api_Parqueo.DTOs;
 using Api_Parqueo.DTOs.Roles;
+using Api_Parqueo.infrastructure.command.ServicioRolesCommand;
+using Api_Parqueo.infrastructure.command.ServicioRolesUsuarioCommand;
 
 namespace Api_Parqueo.Controllers.ServicioRoles
 {
@@ -41,14 +43,18 @@ namespace Api_Parqueo.Controllers.ServicioRoles
                 return BadRequest(ModelState);
             }
 
-            var llamar = new Roles()
-            {
-                rol = dtoTablaPost.rol
-            };
+            var command = new CreateServicioRoles(_ConexionBD);
+            var crearRol= await command.CreateRol(dtoTablaPost);
 
-            _ConexionBD.Add(llamar);
-            await _ConexionBD.SaveChangesAsync();
-            return Ok(llamar);
+            //esto se usa en el command, ya no se ocupa aqui para nada
+            //var llamar = new Roles()
+            //{
+            //    rol = dtoTablaPost.rol
+            //};
+
+            //_ConexionBD.Add(llamar);
+            //await _ConexionBD.SaveChangesAsync();
+            return Ok(crearRol);
         }
 
         [HttpPut]
@@ -59,41 +65,44 @@ namespace Api_Parqueo.Controllers.ServicioRoles
                 return BadRequest(ModelState);
             }
 
-            var LlamarRol = await _ConexionBD.roles.FirstOrDefaultAsync(p => p.id == dtoTablaPut.id);
+            var command = new UpdateRol(_ConexionBD);
+            var editarRol= await command.UpdateRoles(dtoTablaPut);
+            //tampoco hace falta aqui porque y esta en el command
 
-            if(LlamarRol == null)
-            {
-                return BadRequest("No se encontró Rol");
-            }
+            //var LlamarRol = await _ConexionBD.roles.FirstOrDefaultAsync(p => p.id == dtoTablaPut.id);
+
+            //if(LlamarRol == null)
+            //{
+            //    return BadRequest("No se encontró Rol");
+            //}
             
-            LlamarRol.rol = dtoTablaPut.rol;
+            //LlamarRol.rol = dtoTablaPut.rol;
 
 
-            _ConexionBD.Update(LlamarRol);
-            await _ConexionBD.SaveChangesAsync();
-            return Ok(LlamarRol);            
+            //_ConexionBD.Update(LlamarRol);
+            //await _ConexionBD.SaveChangesAsync();
+            return Ok(editarRol);            
         }
 
 
-        [HttpDelete]
-        public async Task<IActionResult> DeleteRol([FromBody] DtoRolPut dtoTablaDelete)
-        {
-            if (!ModelState.IsValid)
+            [HttpDelete("{id_rol}")]
+            public async Task<IActionResult> DeleteRol([FromBody] DtoRolPut dtoTablaDelete)
             {
-                return BadRequest(ModelState);
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
+
+                var command = new DeleteRoles(_ConexionBD);
+                var eliminarRol = await command.DeleteRol(id_rol);
+
+                if (!eliminarRol)
+                {
+                    return Ok(eliminarRol);
+                }
+
+                return BadRequest("No se eliminó el objeto");
+
             }
-
-            var llamarRol= await _ConexionBD.roles.FirstOrDefaultAsync(p=>p.id == dtoTablaDelete.id);
- 
-            if (llamarRol == null)
-            {
-                return BadRequest("No se encontró Rol");
-            }
-
-            _ConexionBD.Remove(llamarRol);
-            await _ConexionBD.SaveChangesAsync();
-            return Ok();
-
-        }
     }
 }

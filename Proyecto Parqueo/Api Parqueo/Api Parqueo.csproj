@@ -20,4 +20,13 @@
     <ProjectReference Include="..\mainParqueo\mainParqueo.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="infrastructure\queries\ServicioParqueoCommand\" />
+    <Folder Include="infrastructure\queries\ServicioRolesCommand\" />
+    <Folder Include="infrastructure\queries\ServicioRolesUsuarioCommand\" />
+    <Folder Include="infrastructure\queries\ServicioSpotCommand\" />
+    <Folder Include="infrastructure\queries\ServicioUsuarioCommand\" />
+    <Folder Include="infrastructure\queries\ServicioVehiculosCommand\" />
+  </ItemGroup>
+
 </Project>
