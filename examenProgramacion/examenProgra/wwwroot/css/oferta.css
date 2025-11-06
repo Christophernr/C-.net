@@ -1,0 +1,12 @@
+.oferta{
+    color:black;
+    background-color: yellow;
+    height:2rem;
+    border-radius:3px;
+    width:15rem;
+    width:10rem;
+    text-align:center;
+}
+span {
+    text-decoration: line-through; /* Raya en medio */
+}

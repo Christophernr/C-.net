@@ -1,0 +1,55 @@
+Que se hace el usuario:
+1-el login es solo para admins, deberia hacer una parte donde se registren los usuarios solos,ingresen sus carros solos, cambien su contraseña, editen su propio usuario, 
+
+
+
+Que hacen los admins:
+
+
+Eliminar y editar el usuario y el carro para que otro usuario no 
+
+
+Detalle:
+
+1-En la tabla usuario debe haber un conteo de cuantos carros ha regitrado,2 es el limite
+
+
+1. Tablas Independientes (sin claves foráneas)
+Roles (si decides usarlo)
+
+Buildings (fundamental para los espacios)
+
+2. Tablas Base de Usuarios
+Users (tabla principal de usuarios)
+
+3. Tablas que dependen de Users
+Vehicles (depende de Users)
+
+User_Roles (si usas sistema de roles, depende de Users y Roles)
+
+4. Tablas de Infrastructure
+Spots (depende de Buildings)
+
+ParkingLogs (depende de Vehicles y Spots)
+
+Orden específico recomendado:
+Buildings (primero porque Spot lo necesita)
+
+Users (base para todo lo demás)
+
+Roles (si aplica)
+
+Vehicles (depende de Users)
+
+User_Roles (si aplica, depende de Users y Roles)
+
+Spots (depende de Buildings)
+
+ParkingLogs (depende de Vehicles y Spots)
+
+Lógica detrás del orden:
+Primero las tablas que no referencian a nadie
+
+Luego las tablas que solo referencian a las anteriores
+
+Finalmente las tablas que referencian múltiples tablas

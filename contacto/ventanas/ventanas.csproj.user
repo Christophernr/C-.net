@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="añadir.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="informacionContacto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="inicio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="modificar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="añadir.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="informacionContacto.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="inicio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="modificar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

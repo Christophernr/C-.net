@@ -1,0 +1,56 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ *@
+@{
+    ViewData["Title"] = "Home Login";
+}
+
+<section class="section-formulario">
+    <h2>Iniciar sesion con js </h2>
+    <form id="formulario" class="formulario">
+        <label for="username">Nombre de Usuario</label>
+        <input type="text" id="username" name="username" required />
+        <p>Usuario: ADMIN</p>
+        @* <p>JsJSJDJDJJDJDJDJD</p> *@
+        <br />
+        <label for="password">Contraseña</label>
+        <input type="password" id="password" name="password" required />
+        <p>Contraseña:Adm1n!</p>
+        <br />
+        <div id="mensaje" class="mensaje"></div>
+        <button type="submit">Loguearse</button>
+    </form>
+
+
+    @* por si ve el codigo, me tiraba error el viewBag porque se validan por los dos lados, el front(js) y el back(asp) *@
+    @* decidi solo hacerlo con js *@
+    @* al tirarlo al js y al back a la vez tiraba error *@
+    @* lo de abajo esel formulario que solo iba a validar con asp pero preferí solo hacerlo con js *@
+    @* no era necesario hacerlo en conjunto, *@
+
+@*     <h2>Iniciar sesion con solo el asp.net</h2>
+    <form method="post" asp-controller="Home" asp-action="login" class="formulario">
+        <label for="username">Nombre de Usuario</label>
+        <input type="text" id="username" name="username" required />
+        <p>Usuario: ADMIN</p>
+        <br />
+        <label for="password">Contraseña</label>
+        <input type="password" id="password" name="password" required />
+        <p>Contraseña:Adm1n!</p>
+        <br />
+        <div id="mensaje"></div>
+        <button type="submit">Loguearse</button>
+    </form>
+ *@
+
+
+
+</section>
+
+

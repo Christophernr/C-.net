@@ -1043,7 +1043,7 @@
         },
         "runtime": {
           "conectar.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1057,7 +1057,7 @@
         },
         "runtime": {
           "Instrucciones.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1069,7 +1069,7 @@
         },
         "runtime": {
           "negocios.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1080,7 +1080,7 @@
         },
         "runtime": {
           "subclases.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1088,7 +1088,7 @@
       "tablas/1.0.0": {
         "runtime": {
           "tablas.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

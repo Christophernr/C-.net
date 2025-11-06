@@ -1,23 +1,25 @@
-﻿using MiPrimerApiEF.Models;
-using MiPrimerApiEF.conexion;
-using Microsoft.AspNetCore.Mvc;
+﻿    using MiPrimerApiEF.Models;
+    using MiPrimerApiEF.conexion;
+    using Microsoft.AspNetCore.Mvc;
+    using MiPrimerApiEF.DTOs;
 
 
 namespace MiPrimerApiEF.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class servicio_producto_controller: ControllerBase
+    public class ServicioProductoController: ControllerBase
     {
 
         //nueva manera de hacer una instancia 
         private readonly conexionDB conexionDB;
 
-        public servicio_producto_controller(conexionDB conexiones)
+        public ServicioProductoController(conexionDB conexiones)
         {
 
             conexionDB = conexiones;
         }
+
         [HttpGet]
         public IActionResult Get()
         {
@@ -35,7 +37,7 @@ namespace MiPrimerApiEF.Controllers
         
         }
         [HttpPost]
-        public IActionResult Post([FromBody] tabla_productoDTO crear)
+        public IActionResult Post([FromBody] tablaPOSTdto crear)
         {
             if (!ModelState.IsValid)
             {
@@ -45,7 +47,7 @@ namespace MiPrimerApiEF.Controllers
 
             var llamar = new tabla_producto()
             {
-                Id = crear.Id,
+                
                 Name = crear.Name,
                 Description = crear.Description,
                 Precio = crear.Precio,
@@ -59,5 +61,45 @@ namespace MiPrimerApiEF.Controllers
 
 
         }
+
+        [HttpPut]
+        public IActionResult Put([FromBody] tablaPUTdto crear)
+        {
+            if (ModelState.IsValid)
+            { 
+                var llamarObjeto= conexionDB.tabla_producto.FirstOrDefault(p=> p.Id == crear.Id);
+
+                if (llamarObjeto == null)
+                {
+                    return NotFound("No se eoncotró objeto a modificar");
+                
+                }
+
+                llamarObjeto.Name = crear.Name;
+                llamarObjeto.Description = crear.Description;
+                llamarObjeto.Precio = crear.Precio;
+                
+
+                conexionDB.Update(llamarObjeto);
+                conexionDB.SaveChanges();
+                return Ok(llamarObjeto);
+            }else
+                return BadRequest(ModelState);
+            
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            var llamarObjeto= conexionDB.tabla_producto.FirstOrDefault(p=> p.Id== id); 
+
+            if (llamarObjeto == null)
+                return NotFound("NO se encontró objeto");
+
+            conexionDB.Remove(llamarObjeto);
+            conexionDB.SaveChanges();
+            return Ok(llamarObjeto);
+        }
     }
+
 }

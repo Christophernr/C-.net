@@ -80,7 +80,7 @@ namespace ventanas
             {
                 var servicio = new servicios.procesos.servicios();
                 var filtrado = servicio.llamar(combo, texto);
-                tabla_tareas.ItemsSource= filtrado;
+                tabla_tareas.ItemsSource = filtrado;
             }
 
 
@@ -121,6 +121,11 @@ namespace ventanas
             tabla_tareas.ItemsSource= lista;
         }
         private void tabla_tareas_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void combo_general_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
         }

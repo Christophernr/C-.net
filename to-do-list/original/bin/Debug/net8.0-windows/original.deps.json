@@ -544,7 +544,7 @@
       "atributos/1.0.0": {
         "runtime": {
           "atributos.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -556,7 +556,7 @@
         },
         "runtime": {
           "conexion.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -568,7 +568,7 @@
         },
         "runtime": {
           "servicios.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -580,7 +580,7 @@
         },
         "runtime": {
           "ventanas.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

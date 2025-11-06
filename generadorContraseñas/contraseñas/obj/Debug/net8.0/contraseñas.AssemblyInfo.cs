@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("contraseñas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c8aa3133768a0f9cdf1db1dbb97dccd35894200")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d367591a19fbaa2b73ec70b5aa2e93ade197c56")]
 [assembly: System.Reflection.AssemblyProductAttribute("contraseñas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("contraseñas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

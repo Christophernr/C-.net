@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\practica c#\ahorcado\ahorcado\ahorcado\obj\Debug\net8.0-windows\
+C:\practica c#\ahorcado\ahorcado\obj\Debug\net8.0-windows\
 ahorcado
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\practica c#\ahorcado\ahorcado\ahorcado\App.xaml
-2-766513663
+C:\practica c#\ahorcado\ahorcado\App.xaml
+5-90252966
 
-7-194928141
+108-2000294807
 198-352714763
-MainWindow.xaml;palabra.xaml;
+ahorcado\App.xaml;ahorcado\MainWindow.xaml;ahorcado\palabra.xaml;MainWindow.xaml;palabra.xaml;
 
 False
 

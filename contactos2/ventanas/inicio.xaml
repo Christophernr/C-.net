@@ -1,0 +1,18 @@
+﻿<Window x:Class="ventanas.informacionContacto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ventanas"
+        mc:Ignorable="d"
+        Title="informacionContacto" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbl_Titulo" Content="Lista Contactos" HorizontalAlignment="Left" Height="46" Margin="65,56,0,0" VerticalAlignment="Top" Width="122" FontSize="16"/>
+        
+        <Grid>
+            <DataGrid x:Name="gridTabla" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="5,149,5,10"/>
+        </Grid>
+        <Button x:Name="btn_guardar" Content="Añadir" HorizontalAlignment="Left" Margin="556,65,0,0" VerticalAlignment="Top" Height="37" Width="75"/>
+
+    </Grid>
+</Window>

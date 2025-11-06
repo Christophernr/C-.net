@@ -1,0 +1,153 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@* @{
+    ViewData["Title"] = "Home Login";
+}
+
+
+<h2>Iniciar sesion</h2>
+<form id="formula" method="post" asp-controller="Home" asp-action="Loggin" class="formulario">
+    <label for="username">Nombre de Usuario</label>
+    <input type="text" id="username" name="username" required />
+    <p>Usuario: ADMNI</p>
+    <br />
+    <label for="password">Contraseña</label>
+    <input type="password" id="password" name="password" required />
+    <p>Contraseña:Adm1n!</p>
+    <br />
+    <div id="mensaje"></div>
+    <button type="submit">Loguearse</button>
+</form>
+ *@
+
+@{
+    ViewData["Title"] = "ofertas";
+}
+@* separado por secciones de 4 elemtnos cada uno *@
+<section class="section-display">
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Play 5</h2>
+        <p>La Consola PlayStation 5 Slim Digital de Sony </p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/768716-1200-900?v=638665139374200000&width=1200&height=900&aspect=true" alt="Imagen vistosa">
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Pantalla RCA LED</h2>
+        <p>Pantalla RCA LED Smart Roku 4k, modelo: Rc75rk de 75 pulgadas, </p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/931029-1200-900?v=638834046165700000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>iPHONE 15</h2>
+        <p>Conoce el Celular Apple Iphone 15 128 Gb</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/732720-1200-900?v=638635848292570000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+
+    </div>
+
+
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Honor Magic 7</h2>
+        <p>Resistente A Salpicaduras, Al Agua Y Al Polvo</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/876361-1200-900?v=638756673772800000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+</section>
+
+
+<section class="section-display">
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Laptop HP R3</h2>
+        <p>Laptop HP 15-fc0043la, AMD Ryzen 3, 8 GB, 512 GB SSD, 15.6, FHD Windows 11 Home</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/851778-1200-900?v=638736805288470000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Samsung S25 ultra</h2>
+        <p>Celular Samsung S25 Ultra 12gb 512 Gb</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/867048-1200-900?v=638751559881300000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Xiaomi Redmi Note 13 Pro</h2>
+        <p>El Xiaomi Redmi Note 13 Pro ofrece 8GB de RAM y 256GB de almacenamiento,</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/573690-1200-900?v=638467726134170000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Honor X8b</h2>
+        <p>Celular Honor X8B 8Gb 256Gb</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/762347-1200-900?v=638661095206570000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+
+</section>
+
+<section class="section-display">
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Audifonos Xiaomi Redmi Buds </h2>
+        <p>Libre y pequeñocon diseño ergonomico confrtable.cancelacion de ruido </p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/721461-1200-900?v=638627126452030000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+    </div>
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Audífonos Honor X5</h2>
+        <p>Los Audífonos Buds Choise X5 de HONOR ofrecen una experiencia auditiva superior</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/774326-1200-900?v=638671422744430000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+
+    </div>
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Audífonos Klip Xtreme</h2>
+        <p>Audífonos Klip Xtreme TWS 007, tecnología inalámbrica de última generación</p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/775150-1200-900?v=638671442012630000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+
+    </div>
+
+    <div class="section-div-producto">
+        <p class="oferta">Oferta Especial</p>
+        <h2>Audífonos Apple</h2>
+        <p>on ideales para usuarios de dispositivos Apple que buscan un sonido nítido </p>
+        <img src="https://walmartcr.vtexassets.com/arquivos/ids/524705-1200-900?v=638418935761600000&width=1200&height=900&aspect=true" alt="Alternate Text" />
+        <p>Precio: <span>$333.52</span> $299.09</p>
+        <button class="boton-productos">Comprar </button>
+
+    </div>
+
+</section>

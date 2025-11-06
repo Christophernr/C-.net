@@ -81,7 +81,7 @@ namespace contraseñas // Note: actual namespace depends on the project name.
             imprimir.Contraseña();
 
             Console.WriteLine("Si quieres otra contraseña digita S");
-            string respuesta = Console.ReadLine();
+            string respuesta = Console.ReadLine().ToUpper();
             string respuestados = "";
             //string s ="S";
             while (respuesta == "S" || respuestados=="S")
@@ -92,7 +92,7 @@ namespace contraseñas // Note: actual namespace depends on the project name.
                 imprimirA.Contraseña();
 
                 Console.WriteLine("Si quieres otra contraseña digita S");
-                string respuesta2 = Console.ReadLine();
+                string respuesta2 = Console.ReadLine().ToUpper();
                 respuestados=respuesta2;
             }
             Console.WriteLine("Gracias,Adios");

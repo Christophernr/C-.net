@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\ahorcado.csproj",
+      "projectUniqueName": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado.csproj",
       "projectName": "ahorcado",
-      "projectPath": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\ahorcado.csproj",
+      "projectPath": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado.csproj",
       "packagesPath": "C:\\Users\\crisn\\.nuget\\packages\\",
-      "outputPath": "C:\\practica c#\\ahorcado\\ahorcado\\ahorcado\\obj\\",
+      "outputPath": "C:\\practica c#\\ahorcado\\ahorcado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

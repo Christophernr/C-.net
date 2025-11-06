@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller",
-    "Method": "Get",
-    "RelativePath": "api/servicio_producto_",
+    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller_asincronico",
+    "Method": "GetAsync",
+    "RelativePath": "api/ControllerAS",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,16 +10,106 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller",
-    "Method": "Post",
-    "RelativePath": "api/servicio_producto_",
+    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller_asincronico",
+    "Method": "PostAsync",
+    "RelativePath": "api/ControllerAS",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "crear",
-        "Type": "MiPrimerApiEF.Models.tabla_productoDTO",
+        "Type": "MiPrimerApiEF.DTOs.tablaPOSTdto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller_asincronico",
+    "Method": "PUTAsync",
+    "RelativePath": "api/ControllerAS",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modificar",
+        "Type": "MiPrimerApiEF.DTOs.tablaPUTdto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.servicio_producto_controller_asincronico",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/ControllerAS/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.ServicioProductoController",
+    "Method": "Get",
+    "RelativePath": "api/ServicioProducto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.ServicioProductoController",
+    "Method": "Post",
+    "RelativePath": "api/ServicioProducto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crear",
+        "Type": "MiPrimerApiEF.DTOs.tablaPOSTdto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.ServicioProductoController",
+    "Method": "Put",
+    "RelativePath": "api/ServicioProducto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crear",
+        "Type": "MiPrimerApiEF.DTOs.tablaPUTdto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiPrimerApiEF.Controllers.ServicioProductoController",
+    "Method": "Delete",
+    "RelativePath": "api/ServicioProducto/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

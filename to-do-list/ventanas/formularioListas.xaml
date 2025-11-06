@@ -9,7 +9,7 @@
     <Grid Margin="0,0,0,-6">
         <Label Content="Buscar" HorizontalAlignment="Left" Margin="46,23,0,0" VerticalAlignment="Top"/>
         <Label Content="Buscar por: " HorizontalAlignment="Left" Margin="66,52,0,0" VerticalAlignment="Top"/>
-        <ComboBox x:Name="combo_general" HorizontalAlignment="Left" Margin="143,54,0,0" VerticalAlignment="Top" Width="120">
+        <ComboBox x:Name="combo_general" HorizontalAlignment="Left" Margin="143,54,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="combo_general_SelectionChanged">
             <ComboBoxItem Content="ID"/>
             <ComboBoxItem Content="Tarea"/>
             <ComboBoxItem Content="Prioridad"/>

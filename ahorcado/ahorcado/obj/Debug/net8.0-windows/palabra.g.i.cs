@@ -61,7 +61,7 @@ namespace ahorcado {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ahorcado;component/palabra.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ahorcado;V1.0.0.0;component/palabra.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\palabra.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

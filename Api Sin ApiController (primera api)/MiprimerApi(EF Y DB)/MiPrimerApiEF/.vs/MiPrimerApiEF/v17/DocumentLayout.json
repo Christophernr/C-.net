@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:controllers\\servicio_producto_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\models\\tabla_productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:models\\tabla_productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +15,40 @@
       "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:models\\tabla_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\dtos\\tablapostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:dtos\\tablapostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\dtos\\tabla_productosgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:dtos\\tabla_productosgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\dtos\\tablaputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:dtos\\tablaputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\controllers\\servicio_producto_controller_asincronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:controllers\\servicio_producto_controller_asincronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|c:\\practica c#\\api sin apicontroller (primera api)\\miprimerapi(ef y db)\\miprimerapief\\miprimerapief.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D63DF77D-36E4-4684-9425-B5B03BF80040}|MiPrimerApiEF.csproj|solutionrelative:miprimerapief.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 717,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:31:18.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
               "$type": "Bookmark",
@@ -46,26 +83,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "servicio_producto_controller_asincronico.cs",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Controllers\\servicio_producto_controller_asincronico.cs",
+              "RelativeDocumentMoniker": "Controllers\\servicio_producto_controller_asincronico.cs",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Controllers\\servicio_producto_controller_asincronico.cs",
+              "RelativeToolTip": "Controllers\\servicio_producto_controller_asincronico.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T15:22:32.759Z",
+              "WhenOpened": "2025-07-22T15:18:04.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "tablaPOSTdto.cs",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\DTOs\\tablaPOSTdto.cs",
+              "RelativeDocumentMoniker": "DTOs\\tablaPOSTdto.cs",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\DTOs\\tablaPOSTdto.cs",
+              "RelativeToolTip": "DTOs\\tablaPOSTdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:40:07.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tablaPUTdto.cs",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\DTOs\\tablaPUTdto.cs",
+              "RelativeDocumentMoniker": "DTOs\\tablaPUTdto.cs",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\DTOs\\tablaPUTdto.cs",
+              "RelativeToolTip": "DTOs\\tablaPUTdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T15:31:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "conexionDB.cs",
               "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\conexion\\conexionDB.cs",
               "RelativeDocumentMoniker": "conexion\\conexionDB.cs",
               "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\conexion\\conexionDB.cs",
               "RelativeToolTip": "conexion\\conexionDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T15:20:03.617Z",
               "EditorCaption": ""
@@ -78,35 +141,87 @@
               "RelativeDocumentMoniker": "Controllers\\servicio_producto_controller.cs",
               "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Controllers\\servicio_producto_controller.cs",
               "RelativeToolTip": "Controllers\\servicio_producto_controller.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T15:15:39.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "tabla_productosGETdto.cs",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\DTOs\\tabla_productosGETdto.cs",
+              "RelativeDocumentMoniker": "DTOs\\tabla_productosGETdto.cs",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\DTOs\\tabla_productosGETdto.cs",
+              "RelativeToolTip": "DTOs\\tabla_productosGETdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:02:14.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "tabla_producto.cs",
               "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Models\\tabla_producto.cs",
               "RelativeDocumentMoniker": "Models\\tabla_producto.cs",
               "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Models\\tabla_producto.cs",
               "RelativeToolTip": "Models\\tabla_producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T15:13:38.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "tabla_productoDTO.cs",
               "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Models\\tabla_productoDTO.cs",
               "RelativeDocumentMoniker": "Models\\tabla_productoDTO.cs",
               "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\Models\\tabla_productoDTO.cs",
               "RelativeToolTip": "Models\\tabla_productoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T15:13:35.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T16:33:00.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T16:32:10.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiPrimerApiEF.http",
+              "DocumentMoniker": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\MiPrimerApiEF.http",
+              "RelativeDocumentMoniker": "MiPrimerApiEF.http",
+              "ToolTip": "C:\\practica c#\\Api Sin ApiController (primera api)\\MiprimerApi(EF Y DB)\\MiPrimerApiEF\\MiPrimerApiEF.http",
+              "RelativeToolTip": "MiPrimerApiEF.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-04T16:31:58.539Z",
               "EditorCaption": ""
             }
           ]

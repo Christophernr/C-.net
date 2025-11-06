@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/servicio_producto_": {
+    "/api/ControllerAS": {
       "get": {
         "tags": [
-          "servicio_producto_"
+          "servicio_producto_controller_asincronico"
         ],
         "responses": {
           "200": {
@@ -18,23 +18,52 @@
       },
       "post": {
         "tags": [
-          "servicio_producto_"
+          "servicio_producto_controller_asincronico"
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/tabla_productoDTO"
+                "$ref": "#/components/schemas/tablaPOSTdto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/tabla_productoDTO"
+                "$ref": "#/components/schemas/tablaPOSTdto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/tabla_productoDTO"
+                "$ref": "#/components/schemas/tablaPOSTdto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "servicio_producto_controller_asincronico"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPUTdto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPUTdto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPUTdto"
               }
             }
           }
@@ -45,11 +74,154 @@
           }
         }
       }
+    },
+    "/api/ControllerAS/{id}": {
+      "delete": {
+        "tags": [
+          "servicio_producto_controller_asincronico"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ServicioProducto": {
+      "get": {
+        "tags": [
+          "ServicioProducto"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "ServicioProducto"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPOSTdto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPOSTdto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPOSTdto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "ServicioProducto"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPUTdto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPUTdto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/tablaPUTdto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ServicioProducto/{id}": {
+      "delete": {
+        "tags": [
+          "ServicioProducto"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
-      "tabla_productoDTO": {
+      "tablaPOSTdto": {
+        "required": [
+          "description",
+          "precio"
+        ],
+        "type": "object",
+        "properties": {
+          "name": {
+            "maxLength": 20,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string"
+          },
+          "precio": {
+            "maximum": 100000,
+            "minimum": 0,1,
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "tablaPUTdto": {
         "required": [
           "description",
           "name",

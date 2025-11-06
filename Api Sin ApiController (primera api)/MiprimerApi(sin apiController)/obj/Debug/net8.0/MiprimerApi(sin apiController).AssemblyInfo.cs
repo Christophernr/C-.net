@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiprimerApi(sin apiController)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00d58504dc40a36b8f793d46a5c61820cf914ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e52a5a7429f02d98cb34d26de0eaa45a81766e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiprimerApi(sin apiController)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiprimerApi(sin apiController)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
